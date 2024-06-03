@@ -3,6 +3,8 @@
 
 #### [Return to my Portfolio](https://github.com/matheusperches/matheusperches.github.io) 
 
+## Access the complete code [here](https://github.com/matheusperches/sc_ship_prices_322_323/blob/main/star-citizen-ship-list-data-exploration-3-23.ipynb)
+
 ## [Ship Price Comparison - Data Exploration in R]([https://github.com/matheusperches/PlaygroundProj](https://github.com/matheusperches/sc_ship_prices_322_323))
 
 #### Gathering the data 
