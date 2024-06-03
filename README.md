@@ -3,9 +3,9 @@
 
 #### [Return to my Portfolio](https://github.com/matheusperches/matheusperches.github.io) 
 
-## Access the complete code [here](https://github.com/matheusperches/sc_ship_prices_322_323/blob/main/star-citizen-ship-list-data-exploration-3-23.ipynb)
-
 ## [Ship Price Comparison - Data Exploration in R]([https://github.com/matheusperches/PlaygroundProj](https://github.com/matheusperches/sc_ship_prices_322_323))
+
+## Access the complete code [here](https://github.com/matheusperches/sc_ship_prices_322_323/blob/main/star-citizen-ship-list-data-exploration-3-23.ipynb)
 
 #### Gathering the data 
 - I obtained the data from the website [https://scfocus.org/ship-sale-rental-locations-history/]. It is a community maintained and trusted website with various resources and information about the game.
