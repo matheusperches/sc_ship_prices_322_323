@@ -120,7 +120,6 @@ facet_wrap(~ship, scales = "free") +  # Facet by dealer to show each instance se
 print(top_5_plot)
 ```
 - The next graph shows the top 5 biggest ship price increases, and also shows their prices in cases where they were sold among different dealers.
-a
 ![Top 5 ship price increase](https://raw.githubusercontent.com/matheusperches/sc_ship_prices_322_323/main/top_5_price_increase.png)
 - I was interested in knowing which vehicles received the biggest pricing adjustment, so I developed this graph that makes it easy to know, in a percentage format.
 - An interesting remark about this graph is that 3 out of the top 5 ships were all Hercules series.
