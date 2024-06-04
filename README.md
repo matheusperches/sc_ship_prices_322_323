@@ -122,4 +122,4 @@ print(top_5_plot)
  ![Top 5 ship price increase](https://raw.githubusercontent.com/matheusperches/sc_ship_prices_322_323/main/top_5_price_increase.png)
 - This graph shows the top 5 biggest ship price increases, and also shows their prices in cases where they were sold among different dealers.
 - I was interested in knowing which vehicles received the biggest pricing adjustment, so I developed this graph that makes it easy to know, in a percentage format.
-- An interesting remark about this graph is that 3 out of the top 5 ships were all Hercules series.
+- An interesting remark about this graph is that 2 out of the top 5 ships were all Hercules series. The A2 received a staggering 701% of price increase, while the 890J, one of the most expensive ships in the game, only received a 102% increase.
